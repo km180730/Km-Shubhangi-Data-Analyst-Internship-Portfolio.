@@ -191,5 +191,3 @@ This internship provided practical experience in the complete data analytics wor
 ⭐ **Thank you for reviewing my Data Analyst Internship Portfolio!**
 
 ---
-
-This version is concise, professional, and ideal for GitHub. It is suitable for internship submission as well as showcasing to recruiters.
