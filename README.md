@@ -1,9 +1,5 @@
 # Km-Shubhangi-Data-Analyst-Internship-Portfolio.
 
-# 📊 ApexPlanet Data Analyst Internship Portfolio
-
-## 👩‍💻 KM Shubhangi
-
 Welcome to my **Data Analyst Internship Portfolio**, completed during my internship at **ApexPlanet Software Pvt. Ltd.**
 
 This repository showcases an end-to-end Data Analytics project covering **data cleaning, exploratory data analysis, SQL, Power BI dashboarding, statistical validation, and business storytelling**.
